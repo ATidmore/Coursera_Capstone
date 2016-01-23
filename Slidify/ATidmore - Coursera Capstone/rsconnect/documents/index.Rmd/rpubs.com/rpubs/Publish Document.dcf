@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/145612/2e92cc1d547d45cabd734e004a93870a
+url: http://rpubs.com/AustinTidmore/145612
+when: 1453579195.89621
